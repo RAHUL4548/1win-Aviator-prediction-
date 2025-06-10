@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler
 from prediction import get_prediction
 
 # Bot Token
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "7148656994:AAGYl60jyvFraTvA6M5qLQHOXsyLR3vssS4"
 
 # Logging Setup
 logging.basicConfig(level=logging.INFO)
